@@ -25,6 +25,10 @@ I am a results‑driven **Data Analyst** with expertise in **Power BI, Excel, SQ
 
 ---
 
+<!-- Right-aligned illustration -->
+<img src="code.gif" alt="Data Analyst at dual monitors" align="right" width="360" style="margin-left:16px; margin-bottom:16px;" />
+
+
 ## ⚡ Core Skills
 
 ### **Analytics & BI**
