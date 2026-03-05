@@ -6,10 +6,6 @@
 <h1 align="center">Hi 👋, I'm Shaurya</h1>
 <h3 align="center">Data Analyst | Power BI | Excel | SQL | Automation | SharePoint | GenAI</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shaurya-pandey&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
 <!-- Typing Effect -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=0078FF&center=true&vCenter=true&width=900&height=60&lines=Data+Analyst+%7C+Power+BI+Specialist;Automation+%26+Workflow+Optimization;SQL+%7C+Excel+%7C+SharePoint+%7C+Power+Automate;Turning+Data+into+Actionable+Insights" />
