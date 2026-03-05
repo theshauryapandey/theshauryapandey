@@ -4,15 +4,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shaurya-pandey-067a47312/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:shauryapandeygzp@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/theshauryapandey">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+  </p>
 
 ---
 
@@ -40,7 +32,7 @@ I specialize in creating automated dashboards, improving workflow efficiency, an
 
 ### **Databases & Programming**
 - SQL  
-- Python (Basic)
+- Python
 
 ### **Data Operations**
 - Data Cleaning  
@@ -70,14 +62,6 @@ I specialize in creating automated dashboards, improving workflow efficiency, an
 
 ---
 
-## 📈 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=theshauryapandey&show_icons=true&theme=tokyonight" height="160" />
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 <p align="center">
@@ -89,5 +73,3 @@ I specialize in creating automated dashboards, improving workflow efficiency, an
   </a>
 </p>
 
----
-``
