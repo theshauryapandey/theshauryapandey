@@ -1,5 +1,5 @@
 <!-- Professional Header -->
-<h1 align="center">Shaurya Pandey</h1>
+<h1 align="center">Hi 👋, I'm Shaurya</h1>
 <h3 align="center">Data Analyst | Power BI | Excel | SQL | Automation | SharePoint | GenAI</h3>
 
 <p align="center">
