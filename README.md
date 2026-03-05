@@ -1,6 +1,7 @@
 <!-- Modern Banner -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e5f4d8bb-a216-4906-b687-2d93944d6d91" 
+  <img src="<img width="1536" height="1024" alt="Designer" src="https://github.com/user-attachments/assets/e7800a34-e353-4750-b3b5-f883957acf77" />
+" 
        alt="Shaurya Pandey Banner" width="100%" />
 </p>
 
