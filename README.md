@@ -1,8 +1,10 @@
 <!-- Modern Banner -->
 <p align="center">
-  <img src="<img width="1536" height="1024" alt="Designer" src="https://github.com/user-attachments/assets/e7800a34-e353-4750-b3b5-f883957acf77" />
-" 
-       alt="Shaurya Pandey Banner" width="100%" />
+  <img 
+    src="https://github.com/user-attachments/assets/e7800a34-e353-4750-b3b5-f883957acf77"
+    alt="Shaurya Pandey Banner"
+    width="100%"
+  />
 </p>
 
 <h1 align="center">🚀 Shaurya Pandey</h1>
