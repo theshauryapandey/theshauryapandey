@@ -1,19 +1,27 @@
-<!-- Professional Header -->
+<!-- Animated Top Banner -->
+<div align="center">
+  <img src="https://github.com/AzmSurov/AzmSurov/raw/master/Rainbow.gif" width="100%" />
+</div>
+
 <h1 align="center">Hi 👋, I'm Shaurya</h1>
 <h3 align="center">Data Analyst | Power BI | Excel | SQL | Automation | SharePoint | GenAI</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shaurya-pandey-067a47312/">
-  </p>
+  <img src="https://komarev.com/ghpvc/?username=shaurya-pandey&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+<!-- Typing Effect -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=0078FF&center=true&vCenter=true&width=900&height=60&lines=Data+Analyst+%7C+Power+BI+Specialist;Automation+%26+Workflow+Optimization;SQL+%7C+Excel+%7C+SharePoint+%7C+Power+Automate;Turning+Data+into+Actionable+Insights" />
+</div>
 
 ---
 
 ## 📌 About Me
-I am a results‑driven **Data Analyst** with hands‑on experience in **Power BI, Excel, SQL, Power Query, Power Automate, SharePoint, and Generative AI**.  
-I specialize in creating automated dashboards, improving workflow efficiency, and delivering accurate, actionable insights.
+I am a results‑driven **Data Analyst** with expertise in **Power BI, Excel, SQL, Power Query, Power Automate, SharePoint**, and **Generative AI**.
 
-🎓 **PG Certification – Data Analytics with GenAI (E&ICT Academy, IIT Guwahati)**  
-📊 Skilled in MIS reporting, data transformation, and process automation.
+🎓 *PG Certification – Data Analytics with GenAI (E&ICT Academy, IIT Guwahati)*  
+📊 Passionate about building automated dashboards, workflow optimization & insight‑driven reporting.
 
 ---
 
@@ -22,7 +30,7 @@ I specialize in creating automated dashboards, improving workflow efficiency, an
 ### **Analytics & BI**
 - Power BI  
 - Advanced Excel  
-- KPI & Operations Dashboards  
+- KPI Dashboards  
 - MIS Reporting  
 
 ### **Automation & ETL**
@@ -32,12 +40,12 @@ I specialize in creating automated dashboards, improving workflow efficiency, an
 
 ### **Databases & Programming**
 - SQL  
-- Python
+- Python  
 
 ### **Data Operations**
 - Data Cleaning  
 - QC Validation  
-- SharePoint Data Management  
+- SharePoint Management  
 
 ---
 
@@ -46,19 +54,18 @@ I specialize in creating automated dashboards, improving workflow efficiency, an
 ### **MIS Executive — Crystal Screening Services**  
 📍 *April 2025 – March 2026 | Noida*
 
-- Built and managed interactive MIS dashboards for operations and SLA monitoring  
-- Designed automated trackers to improve task visibility and reporting  
-- Performed data cleaning, QC validation, and process improvement  
-- Streamlined workflows using Power Query & Power Automate  
-- Managed SharePoint‑based collaboration and document systems  
+- Designed interactive MIS dashboards for SLA & operations monitoring  
+- Created automated trackers to enhance visibility & productivity  
+- Performed QC validation & data transformation  
+- Built workflow automation using Power Query & Power Automate  
+- Managed SharePoint‑based data systems & documentation  
 
 ---
 
 ## 🛠 Tools & Technologies
 
 <p align="center">
-  <img width="400" height="180" alt="Designer" src="https://github.com/user-attachments/assets/652cc797-2fee-4cee-90f1-7bcd1334d13a" />
-
+  <img width="400" height="180" alt="tools" src="https://github.com/user-attachments/assets/652cc797-2fee-4cee-90f1-7bcd1334d13a" />
 </p>
 
 ---
@@ -66,11 +73,26 @@ I specialize in creating automated dashboards, improving workflow efficiency, an
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shaurya-pandey-067a47312/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+  <a href="https://www.linkedin.com/in/shaurya-pandey-067a47312/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:shauryapandeygzp@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
 
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shaurya-Pandey&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaurya-Pandey&layout=compact&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515" height="180" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github.com/AzmSurov/AzmSurov/raw/master/Gradients.png" width="100%" />
+  <img src="https://github.com/AzmSurov/AzmSurov/raw/master/Rainbow.gif" width="100%" />
+</div>
