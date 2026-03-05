@@ -1,6 +1,6 @@
 <!-- Modern Banner -->
 <p align="center">
-  <img src="https://github.com/theshauryapandey/theshauryapandey/assets/banner.png" 
+  <img src="![astronaut-gargantua-3840x2160-9613](https://github.com/user-attachments/assets/e5f4d8bb-a216-4906-b687-2d93944d6d91)" 
        alt="Shaurya Pandey Banner" width="100%" />
 </p>
 
@@ -61,7 +61,7 @@
 ## 💼 Professional Experience
 
 ### **MIS Executive — Crystal Screening Services**
-📍 *April 2025 – Present | Noida*  
+📍 *April 2025 – March 2026 | Noida*  
 
 - Developed & maintained advanced MIS dashboards & trackers  
 - Designed **Insuff**, **Main**, and **Red‑Orange** Trackers  
@@ -72,38 +72,6 @@
 - Ensured **real‑time collaboration** using SharePoint  
 - Prepared reports for verified cases & audit processes  
 - Coordinated with internal teams for data accuracy & closures  
-
----
-
-## 🎓 Education
-
-🎓 **PG Certification in Data Analytics with GenAI (Aug 2025)**  
-E&ICT Academy, IIT Guwahati  
-
-🎓 **B.Sc. – Mathematics (2023)**  
-Veer Bahadur Singh Purvanchal University  
-
-🎓 **Senior Secondary (2020)** — CBSE  
-🎓 **Secondary (2018)** — CBSE  
-
----
-
-## 📜 Certifications
-
-🏅 Generative AI for Data Analytics — IIT Guwahati  
-🏅 SQL for Data Analysis — IIT Guwahati  
-🏅 Power BI — IIT Guwahati  
-🏅 ADCA & CCC  
-🏅 Advanced Excel  
-
----
-
-## 🏆 Accomplishments
-
-✨ Certificate of Excellence — GenAI  
-✨ Certificate of Excellence — Power BI  
-✨ Certificate of Excellence — SQL  
-✨ Certificate of Excellence — Excel & Analytics  
 
 ---
 
