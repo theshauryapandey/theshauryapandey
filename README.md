@@ -25,32 +25,31 @@ I am a results‑driven **Data Analyst** with expertise in **Power BI, Excel, SQ
 
 ---
 
-<!-- Right-aligned illustration -->
-<img src="code.gif" alt="Data Analyst at dual monitors" align="right" width="360" style="margin-left:16px; margin-bottom:16px;" />
-
-
 ## ⚡ Core Skills
 
-### **Analytics & BI**
+|  |  |
+|---|---|
+| 
+**Analytics & BI**  
 - Power BI  
 - Advanced Excel  
-- KPI Dashboards  
+- KPI & Operations Dashboards  
 - MIS Reporting  
 
-### **Automation & ETL**
+**Automation & ETL**  
 - Power Automate  
 - Power Query  
 - Workflow Optimization  
 
-### **Databases & Programming**
+**Databases & Programming**  
 - SQL  
 - Python  
 
-### **Data Operations**
+**Data Operations**  
 - Data Cleaning  
 - QC Validation  
-- SharePoint Management  
-
+- SharePoint Data Management  
+ | <img src="code.gif" alt="Data Analyst at dual monitors" width="360"> |
 ---
 
 ## 💼 Professional Experience
