@@ -1,16 +1,6 @@
-<!-- Modern Banner -->
-<p align="center">
-  <img 
-    src="https://github.com/user-attachments/assets/e7800a34-e353-4750-b3b5-f883957acf77"
-    alt="Shaurya Pandey Banner"
-    width="100%"
-  />
-</p>
-
-<h1 align="center">🚀 Shaurya Pandey</h1>
+<!-- Professional Header -->
+<h1 align="center">Shaurya Pandey</h1>
 <h3 align="center">Data Analyst | Power BI | Excel | SQL | Automation | SharePoint | GenAI</h3>
-
-<br/>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shaurya-pandey-067a47312/">
@@ -26,59 +16,36 @@
 
 ---
 
-## 🔥 About Me
-Enthusiastic and detail‑oriented **Data Analyst** with strong skills in  
-**Power BI, Excel, SQL, Power Query, Automation, and SharePoint**.
+## 📌 About Me
+I am a results‑driven **Data Analyst** with hands‑on experience in **Power BI, Excel, SQL, Power Query, Power Automate, SharePoint, and Generative AI**.  
+I specialize in creating automated dashboards, improving workflow efficiency, and delivering accurate, actionable insights.
 
-🎓 PG Certification in **Data Analytics with GenAI** — *E&ICT Academy, IIT Guwahati*  
-📊 Experience in MIS reporting, dashboarding, automation, QC, and workflow optimization  
-⚡ Passionate about building scalable BI solutions with accuracy & automation
-
----
-
-## ⭐ Featured Projects (Recommended Section)
-
-### 📌 **🔍 Sales Insights Dashboard**
-**Power BI | SQL | DAX**  
-Interactive dashboard uncovering revenue trends, regional performance & customer insights.  
-🔗 *Add link here once repo is ready*
+🎓 **PG Certification – Data Analytics with GenAI (E&ICT Academy, IIT Guwahati)**  
+📊 Skilled in MIS reporting, data transformation, and process automation.
 
 ---
 
-### 📌 **📂 Automated Excel → SQL ETL Pipeline**
-**Python | Pandas | SQL | Power Automate**  
-Script + automation pipeline that cleans, transforms, and loads Excel data into SQL automatically.  
-🔗 *Add link here once repo is ready*
+## ⚡ Core Skills
 
----
+### **Analytics & BI**
+- Power BI  
+- Advanced Excel  
+- KPI & Operations Dashboards  
+- MIS Reporting  
 
-### 📌 **🧮 HR Analytics & Attrition Report**
-**Excel | Power BI**  
-Visual analytics to identify attrition patterns and HR improvement areas.  
-🔗 *Add link here once repo is ready*
+### **Automation & ETL**
+- Power Automate  
+- Power Query  
+- Workflow Optimization  
 
----
+### **Databases & Programming**
+- SQL  
+- Python (Basic)
 
-## 🧩 Skills Overview
-
-### **📊 Analytics & Reporting**
-`Power BI` · `DAX` · `Advanced Excel` · `MIS Reporting` · `KPI Dashboards`
-
-### **⚙ Automation**
-`Power Automate` · `Power Query` · `Workflow Automation`
-
-### **🗂 Collaboration & Data Management**
-`SharePoint` · `Document Control Systems`
-
-### **🛢 Databases**
-`SQL` · `Python (Basics)`
-
-### **🤖 AI Tools**
-`GenAI for Data Analytics`
-
-### **🧠 Additional Skills**
-`Data Cleaning` · `QC Validation`  
-`Analytical Thinking` · `Time Management` · `Team Collaboration`
+### **Data Operations**
+- Data Cleaning  
+- QC Validation  
+- SharePoint Data Management  
 
 ---
 
@@ -87,14 +54,11 @@ Visual analytics to identify attrition patterns and HR improvement areas.
 ### **MIS Executive — Crystal Screening Services**  
 📍 *April 2025 – March 2026 | Noida*
 
-- Developed & maintained **MIS dashboards and trackers**
-- Designed **Insuff, Main, and Red‑Orange** trackers for workflow monitoring
-- Performed **Revert QC**, validation, and data accuracy checks
-- Managed **Reverification**, SLA tracking, and process updates
-- Automated repetitive tasks using **Power Automate**
-- Cleaned & transformed datasets using **Power Query**
-- Improved team collaboration with **SharePoint integrations**
-- Prepared audit-ready reports for verified case summaries
+- Built and managed interactive MIS dashboards for operations and SLA monitoring  
+- Designed automated trackers to improve task visibility and reporting  
+- Performed data cleaning, QC validation, and process improvement  
+- Streamlined workflows using Power Query & Power Automate  
+- Managed SharePoint‑based collaboration and document systems  
 
 ---
 
@@ -110,16 +74,11 @@ Visual analytics to identify attrition patterns and HR improvement areas.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=theshauryapandey&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theshauryapandey&theme=tokyonight" height="160" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theshauryapandey&layout=compact&theme=tokyonight" height="150" />
 </p>
 
 ---
 
-## 🔗 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shaurya-pandey-067a47312/">
@@ -131,3 +90,4 @@ Visual analytics to identify attrition patterns and HR improvement areas.
 </p>
 
 ---
+``
