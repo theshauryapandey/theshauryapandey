@@ -83,14 +83,6 @@ I am a results‑driven **Data Analyst** with expertise in **Power BI, Excel, SQ
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shaurya-Pandey&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaurya-Pandey&layout=compact&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515" height="180" />
-</div>
-
-<br>
 
 <div align="center">
   <img src="https://github.com/AzmSurov/AzmSurov/raw/master/Gradients.png" width="100%" />
