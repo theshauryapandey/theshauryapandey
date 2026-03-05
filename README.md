@@ -73,11 +73,12 @@ I am a results‑driven **Data Analyst** with expertise in **Power BI, Excel, SQ
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shaurya-pandey-067a47312/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  https://www.linkedin.com/in/shaurya-pandey-067a47312/
+    https://cdn-icons-png.flaticon.com/512/174/174857.png
   </a>
-  <a href="mailto:shauryapandeygzp@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail" />
+  &nbsp;&nbsp;&nbsp;
+  mailto:shauryapandeygzp@gmail.com
+    https://cdn-icons-png.flaticon.com/512/732/732200.png
   </a>
 </p>
 
