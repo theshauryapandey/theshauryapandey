@@ -30,7 +30,7 @@ I am a results‑driven **Data Analyst** with expertise in **Power BI, Excel, SQ
 <!-- Right-aligned illustration -->
 <img src="https://github.com/user-attachments/assets/87df7b7d-8ef1-4f73-8430-c763a0379afa"
      alt="Data analyst working at dual monitors"
-     align="right" width="360" style="margin-left:30px; margin-bottom:30px;" />
+     align="right" width="550" style="margin-left:30px; margin-bottom:30px;" />
 
 ### **Analytics & BI**
 - Power BI  
