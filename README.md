@@ -1,6 +1,6 @@
 <!-- Modern Banner -->
 <p align="center">
-  <img src="[https://github.com/user-attachments/assets/e5f4d8bb-a216-4906-b687-2d93944d6d91)](https://4kwallpapers.com/space/cosmos-wormhole-9652.html)" 
+  <img src="https://github.com/user-attachments/assets/e5f4d8bb-a216-4906-b687-2d93944d6d91" 
        alt="Shaurya Pandey Banner" width="100%" />
 </p>
 
