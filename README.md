@@ -74,10 +74,10 @@ I am a results‑driven **Data Analyst** with expertise in **Power BI, Excel, SQ
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shaurya-pandey-067a47312/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/logo=linkedin" />
   </a>
   <a href="mailto:shauryapandeygzp@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/logo=gmail" />
   </a>
 </p>
 
