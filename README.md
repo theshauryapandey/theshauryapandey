@@ -57,8 +57,8 @@ I specialize in creating automated dashboards, improving workflow efficiency, an
 ## 🛠 Tools & Technologies
 
 <p align="center">
-  <img width="1536" height="1024" alt="Designer" src="https://github.com/user-attachments/assets/5d831645-e75f-40ad-9ae3-57213f185dac" />
-" />
+  <img width="1506" height="264" alt="Designer" src="https://github.com/user-attachments/assets/652cc797-2fee-4cee-90f1-7bcd1334d13a" />
+
 </p>
 
 ---
