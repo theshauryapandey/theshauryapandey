@@ -57,7 +57,8 @@ I specialize in creating automated dashboards, improving workflow efficiency, an
 ## 🛠 Tools & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=excel,powerbi,py,github,git,sql,azure,ai,powershell" />
+  <img width="1536" height="1024" alt="Designer" src="https://github.com/user-attachments/assets/5d831645-e75f-40ad-9ae3-57213f185dac" />
+" />
 </p>
 
 ---
