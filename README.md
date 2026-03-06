@@ -1,6 +1,6 @@
 <!-- Animated Top Banner -->
 <div align="center">
-  <img src="https://github.com/AzmSurov/AzmSurov/raw/master/Rainbow.gif" width="100%" />
+  <img src="https://github.com/user-attachments/assets/390ae9f0-9371-4ee8-8860-642c70f52f40" width="100%" />
 </div>
 
 <h1 align="center">Hi 👋, I'm Shaurya</h1>
@@ -83,6 +83,6 @@ I am a results‑driven **Data Analyst** with expertise in **Power BI, Excel, SQ
 
 
 <div align="center">
-  <img src="https://github.com/AzmSurov/AzmSurov/raw/master/Gradients.png" width="100%" />
-  <img src="https://github.com/AzmSurov/AzmSurov/raw/master/Rainbow.gif" width="100%" />
+  <img src="https://github.com/user-attachments/assets/5416cfb2-37e6-49a3-8702-8d7970b2d267" width="100%" />
+  <img src="https://github.com/user-attachments/assets/390ae9f0-9371-4ee8-8860-642c70f52f40" width="100%" />
 </div>
